@@ -1,32 +1,28 @@
-AIFrontier
-⚙️ Tech Stack
-React.js
-Tailwind CSS
-🤸 Quick Start
+# AIFrontier
+
+## ⚙️ Tech Stack
+- React.js
+- Tailwind CSS
+
+## 🤸 Quick Start
 Follow these steps to set up the project locally on your machine.
 
-Prerequisites
+### Prerequisites
 Make sure you have the following installed on your machine:
+- Git
+- Node.js
+- npm (Node Package Manager)
 
-Git
-Node.js
-npm (Node Package Manager)
-Cloning the Repository
-bash
-Copy code
+### Cloning the Repository
+```bash
 git clone https://github.com/yourusername/aifrontier.git
 cd aifrontier
-Installation
-Install the project dependencies using npm:
 
-bash
-Copy code
+#instalation
 npm install
-Running the Project
-bash
-Copy code
+
+#start
 npm run dev
-Open https://aifrontnier24.netlify.app/ in your browser to view the project.
 
-The AIFrontier project features an awesome dark UI with stunning animation effects, created using React.js and Tailwind CSS.
-
+#live page
+https://aifrontnier24.netlify.app/
