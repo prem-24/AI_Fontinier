@@ -26,7 +26,7 @@ Running the Project
 bash
 Copy code
 npm run dev
-Open http://localhost:3000 in your browser to view the project.
+Open https://aifrontnier24.netlify.app/ in your browser to view the project.
 
 The AIFrontier project features an awesome dark UI with stunning animation effects, created using React.js and Tailwind CSS.
 
